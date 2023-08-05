@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class BinaryTree {
+public class BinaryTraversal {
 
     // 定义二叉树节点类
     static class TreeNode {
